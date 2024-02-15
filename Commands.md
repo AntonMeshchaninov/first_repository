@@ -45,5 +45,10 @@ Git log --oneline
 ```sh
 Git push origin master (по умолчанию)
 ```
+*Команда загружающая файлы из удаленного репозитория в локальный*
+
+```sh
+Git pull origin master (по умолчанию) 
+```
 
 
