@@ -40,5 +40,10 @@ Git checkout
 ```sh
 Git log --oneline 
 ```
+*Команда отправляющая файлы из локального репозитория в удаленный*
+
+```sh
+Git push origin master (по умолчанию)
+```
 
 
