@@ -83,7 +83,7 @@ git log --graph
 ```sh
 git branch -d (имя ветки) 
 ```
-
+## Конец ##
 
 
 
